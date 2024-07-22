@@ -5,7 +5,7 @@
 <p align="justify">The project followed these steps: </p>
 
 1. Entity Relationship Diagram creation for conceptual understanding of how the webapp works in the backend.
-2. Relational Model implementation to convert it to something closer to a functioning database in the backend.</ol>
+2. Relational Model implementation to convert it to something closer to a functioning database in the backend.
 3. SQL script implementation to have a successfully working backend that can be hosted locally.
 4. Frontend creation using simple PHP, HTML and CSS to have a user friendly interaction with the functionality being added through PHP.
 
