@@ -4,17 +4,13 @@
 
 <p align="justify">The project followed these steps: </p>
 
-<li>
-    <ol>Entity Relationship Diagram creation for conceptual understanding of how the webapp works in the backend.</ol>
-    <ol>Relational Model implementation to convert it to something closer to a functioning database in the backend.</ol>
-    <ol>SQL script implementation to have a successfully working backend that can be hosted locally.</ol>
-    <ol>Frontend creation using simple PHP, HTML and CSS to have a user friendly interaction with the functionality being added through PHP.</ol>
-</li>
+1. Entity Relationship Diagram creation for conceptual understanding of how the webapp works in the backend.
+2. Relational Model implementation to convert it to something closer to a functioning database in the backend.</ol>
+3. SQL script implementation to have a successfully working backend that can be hosted locally.
+4. Frontend creation using simple PHP, HTML and CSS to have a user friendly interaction with the functionality being added through PHP.
 
 <p align="justify">To run this webapp locally: </p>
 
-<li>
-    <ul>Clone repository</ul>
-    <ul>Run rentalDB.sql on a web server (Apache HTTP Server Project is a good option)</ul>
-    <ul>Open the rental.php webpage to start exploring functionality</ul>
-</li>
+- Clone repository
+- Run rentalDB.sql on a web server (Apache HTTP Server Project is a good option)
+- Open the rental.php webpage to start exploring functionality
